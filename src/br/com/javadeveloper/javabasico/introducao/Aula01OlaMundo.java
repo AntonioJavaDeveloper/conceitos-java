@@ -1,6 +1,6 @@
 package br.com.javadeveloper.javabasico.introducao;
 
-public class OlaMundo {
+public class Aula01OlaMundo {
     //Isso é um comentário de uma linha
     /*
     Comentário
