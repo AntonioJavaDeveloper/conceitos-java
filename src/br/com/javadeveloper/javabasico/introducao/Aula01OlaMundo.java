@@ -7,7 +7,7 @@ public class Aula01OlaMundo {
     de múltiplas linhas
      */
     /**
-     * Isso é um cometário <b>javadoc</b>
+     * Isso é um comentário <b>javadoc</b>
      */
     public static void main(String[] args) {
         System.out.println("Olá, Mundo!");
