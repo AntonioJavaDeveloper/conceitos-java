@@ -14,7 +14,7 @@ public class Aula02TiposPrimitivos {
         boolean falso = false; // 1 bit
         char caractere = 10; // 2 bytes
         String nome = "Goku"; //Objeto
-        var nome2 = "Testando versão 8";
+        //var nome2 = "Testando versão 8";
 
         System.out.println("A idade é" + idade + "anos");
         System.out.println(verdadeiro);
